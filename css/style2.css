@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(218, 183, 183);
+}
+
+table, th, td{
+    border: 1px solid beige;
+    padding: 20px;
+    width: 500px;
+    margin: auto; 
+}
+img {
+    width: 500px;
+    /* margin: auto; */
+    height: 250px;
+img, p {
+display: inline-block;
+}
+}
+
+div{
+    text-align: center;
+}
+
+p {
+    color: rgb(59, 37, 37);
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    color: rgb(59, 37, 37);
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace ;
+}
+
+h2{
+    color: rgb(102, 58, 58);
+    font-family: lucida console, monospace;
+}
+p{
+    font-family:'Times New Roman', Times, serif
+}
+ul {
+ font-family: 'Times New Roman', Times, serif;
+}
+
+#tiaz{
+    width: 100;
+}
